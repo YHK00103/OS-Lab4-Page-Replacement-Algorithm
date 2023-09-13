@@ -9,4 +9,4 @@
 ## LFU (Least Frequency Used)
 The page that is the least number of times of being called in a certain period of time will have the least chance of being called in the future.  
 1. If a page is replaced by another page and enter the frame again, the frequency of page needs to recalculate.  
-2. If the frequency of pages are same, then it decides which page is replaced by using FIFO.  S
+2. If the frequency of pages are same, then it decides which page is replaced by using FIFO.  
